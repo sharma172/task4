@@ -1,0 +1,38 @@
+
+body{
+	background-color: #f4f4f4;
+	color: #555;
+	font-size: 16px;
+	margin: 0;
+	line-height: 1.6em;
+	margin: 0;
+}
+.container{
+	width: 80%;
+	margin:auto;
+	overflow: hidden;
+}
+#navbar
+{
+	background-color: black;
+	color:white;
+}
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+#navbar li
+{
+	display: inline;
+}
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;
+}
+#main-header{
+	background-color: coral;
+	color: #fff;
+
+}
